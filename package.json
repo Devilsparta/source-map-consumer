@@ -1,0 +1,10 @@
+{
+  "name": "source-map-consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.13.0",
+    "source-map": "^0.7.4"
+  }
+}
